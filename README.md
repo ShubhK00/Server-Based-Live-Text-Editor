@@ -1,2 +1,3 @@
-# Server-Based-Live-Text-Editor
-A real-time collaborative text editor built with PyQt6 and Socket.io.
+Real-Time Collaborative Editor
+
+This project is a simplified, desktop-based version of Google Docs built with Python. It enables multiple users to join a session and edit the same document simultaneously, with changes reflecting instantly across all connected clients.
