@@ -9,7 +9,7 @@ class SocketSignals(QObject):
 class CollaborativeEditor(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("PyCollab Edit")
+        self.setWindowTitle("Python Text Editor")
         self.setGeometry(100, 100, 800, 600)
 
         # Networking
